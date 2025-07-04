@@ -1,0 +1,15 @@
+name: auto_qsar_cl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - chembl_structure_pipeline=1.2.2
+  - ipywidgets
+  - joblib=1.4.0
+  - numpy=1.26.4
+  - pandas=2.0.0
+  - rdkit=2023.09.6
+  - scikit-learn=1.4.2
+  - scipy=1.13.0
+  - xgboost=2.1.1
+prefix: C:\Users\ndaood\.conda\envs\auto_qsar_cl
